@@ -1,0 +1,26 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   HEAD
+#	new file:   config
+#	new file:   description
+#	new file:   hooks/applypatch-msg.sample
+#	new file:   hooks/commit-msg.sample
+#	new file:   hooks/post-update.sample
+#	new file:   hooks/pre-applypatch.sample
+#	new file:   hooks/pre-commit.sample
+#	new file:   hooks/pre-push.sample
+#	new file:   hooks/pre-rebase.sample
+#	new file:   hooks/prepare-commit-msg.sample
+#	new file:   hooks/update.sample
+#	new file:   info/exclude
+#
+# Changes not staged for commit:
+#	modified:   ObjectDetectionRobotics (untracked content)
+#
+# Untracked files:
+#	h3wdemtb.o5r.txt
+#
+
